@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Tom-Bruise's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tom-Bruise)]([https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=tom-bruise&theme=dark&show_icons=true&hide=contrib,prs)
+![Tom-Bruise's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tom-Bruise&theme=dark&show_icons=true&hide=contrib,prs)
 
 
 <!--
